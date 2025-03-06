@@ -2,3 +2,5 @@
 	Cross-Origin-Embedder-Policy: require-corp
 	Cross-Origin-Opener-Policy: same-origin
 	Access-Control-Allow-Origin: *
+	Access-Control-Allow-Credentials : true
+	Access-Control-Allow-Methods : GET, POST, OPTIONS
