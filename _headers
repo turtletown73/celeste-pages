@@ -1,5 +1,5 @@
 /*
-	Cross-Origin-Embedder-Policy: credentialless
+	Cross-Origin-Embedder-Policy: require-corp
 	Cross-Origin-Opener-Policy: same-origin
 	Access-Control-Allow-Origin: https://celeste.scoobis.us.to
 	Access-Control-Allow-Credentials : true
